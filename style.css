@@ -1,0 +1,100 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+/*	background-image: url('port bg1.jpg');*/
+}
+.container{
+	width: 55%;
+	height: 150px;
+	margin: 1% 3%;
+
+}
+.glass{
+	background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+	backdrop-filter: blur(10px);
+	-webkit-backdrop-filter:blur(10px);
+	border-radius: 20px;
+	border:1px solid rgba(255,255,255,0.18);
+	box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
+
+}
+
+.container1{
+	width: 55%;
+	height: 520px;
+	margin: 1% 3%;
+
+}
+.glass1{
+	background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+	backdrop-filter: blur(10px);
+	-webkit-backdrop-filter:blur(10px);
+	border-radius: 20px;
+	border:1px solid rgba(255,255,255,0.18);
+	box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
+
+}
+.container2{
+	width: 35%;
+	height: 550px;
+	margin: 1% 3%;
+
+}
+.glass2{
+	background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+	backdrop-filter: blur(10px);
+	-webkit-backdrop-filter:blur(10px);
+	border-radius: 20px;
+	border:1px solid rgba(255,255,255,0.18);
+	box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
+	margin-left: 60%;
+	margin-top: -45%;
+}
+.container3{
+	width: 35%;
+	height: 100px;
+	margin: 1% 3%;
+
+
+}
+.glass3{
+	background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+	backdrop-filter: blur(10px);
+	-webkit-backdrop-filter:blur(10px);
+	border-radius: 20px;
+	border:1px solid rgba(255,255,255,0.18);
+	box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
+	margin-left: 60%;
+
+}
+body {
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0;
+  padding: 0;
+  background-color: aliceblue;
+  color: aliceblue;
+  font-size: 25px;
+ font-weight: 600;
+}
+.follow{
+	padding-top: 5%;
+}
+.follow a{
+   font-size: 3rem;
+   margin:10% 0%;
+   cursor: pointer;
+   transition: .6s linear !important;
+color: darkgreen;
+padding: 4%;
+}
+.me{
+	margin-left: 10%;
+}
+.terminal-body{
+	color: darkgreen;
+}
+.terminal-input{
+	color: darkgreen;
+}
